@@ -1,0 +1,16 @@
+.red{
+
+    
+    color: rgba(255, 0, 0, 0.692);
+}
+
+ body {
+
+    text-align: center;
+    color: rgb(2, 179, 111);
+    background-image: url("img/1114119.jpg");
+ }
+ table{
+
+    margin-left: 40px;
+ }
